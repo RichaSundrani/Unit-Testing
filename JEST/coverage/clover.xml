@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1612819367976" clover="3.2.0">
+  <project timestamp="1612819367976" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="12" coveredmethods="11" elements="40" coveredelements="39" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
+    <file name="anagram.js" path="/Users/richasundrani/Desktop/Workspace/JOB/Inteview-Prep/Concepts/Unit Testing/JEST/anagram.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="array_chunk.js" path="/Users/richasundrani/Desktop/Workspace/JOB/Inteview-Prep/Concepts/Unit Testing/JEST/array_chunk.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="10" type="stmt"/>
+      <line num="11" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+    <file name="functions.js" path="/Users/richasundrani/Desktop/Workspace/JOB/Inteview-Prep/Concepts/Unit Testing/JEST/functions.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="reverese_string.js" path="/Users/richasundrani/Desktop/Workspace/JOB/Inteview-Prep/Concepts/Unit Testing/JEST/reverese_string.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
